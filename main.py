@@ -18,8 +18,7 @@ st.title('Web 시리얼 모니터!')
 st.write("This is a simple text")
 st.write("시작하자")
 st.image("./images/아존이1.jpg")
-
-
+st.image("./images/아존이_공간능력.jpg")
 
 # ports = []
 # for port in serial.tools.list_ports.comports():
