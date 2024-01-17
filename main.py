@@ -1,13 +1,13 @@
-import tkinter as tk
+#import tkinter as tk
 import streamlit as st
 # import serial
 # #import time
-import serial.tools.list_ports
+#import serial.tools.list_ports
 # Create the main window
 #ports = serial.tools.list_ports.comports()
 #for port, desc, hwid in sorted(ports):
 #    print(f"{port}: {desc} [{hwid}]")
-print(st.__version__)
+#print(st.__version__)
 
 st.set_page_config(
      page_title="웹 연습",
